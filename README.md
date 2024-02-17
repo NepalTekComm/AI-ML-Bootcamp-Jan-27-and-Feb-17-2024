@@ -53,7 +53,7 @@ Make sure you join the team "**AI/ML Bootcamp Jan 27 and Feb 17**".
 
 ---
 
-**Note:** For sample a repo called **SatyaRajAwasthi-Demo-project** is created ([visit demo repo](https://github.com/NepalTekComm/AI-ML-Bootcamp-Jan-27-and-Feb-17-2024)). And, [click this to see how submission issue looks like](https://github.com/NepalTekComm/AI-ML-Bootcamp-Jan-27-and-Feb-17-2024).
+**Note:** For sample a repo called **SatyaRajAwasthi-Demo-project** is created ([visit demo repo](https://github.com/NepalTekComm/SatyaRajAwasthi-Assignment-Demo-Project)). And, [click this to see how submission issue looks like](https://github.com/NepalTekComm/AI-ML-Bootcamp-Jan-27-and-Feb-17-2024/issues/1).
 
 ## Additional Resources
 
